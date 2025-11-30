@@ -41,7 +41,7 @@ nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏�
 ## 🌐 订阅地址
 
 - 标准端口：`https://your-domain.com/sub`
-- 非标端口：`http://your-domain.com:port/sub`
+- 非标端口：`http://your-domain.com:uuid/2205`
 
 ---
 
